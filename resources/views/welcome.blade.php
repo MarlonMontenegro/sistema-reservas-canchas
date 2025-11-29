@@ -12,7 +12,7 @@
 
 <body class="bg-gray-50">
 
-    <!-- NAVBAR -->
+    <!-- NAV BAR -->
     <header class="w-full bg-gray-50 border-b">
         <nav class="max-w-7xl mx-auto flex items-center justify-between px-6 py-4">
             <div class="text-xl font-bold tracking-tight text-gray-900">FutbolHub</div>
@@ -70,7 +70,7 @@
     </section>
 
 
-    <!-- ¿POR QUÉ ELEGIR FUTBOLHUB? -->
+    <!-- ¿POR QUÉ ELEGIR FUTBOL HUB? -->
     <section class="bg-gray-50 py-20">
         <div class="max-w-6xl mx-auto px-6">
             <h2 class="text-center text-3xl font-extrabold text-gray-900 mb-12">
@@ -105,7 +105,7 @@
     </section>
 
 
-    <!-- RESERVA TU CANCHA HOY -->
+    <!-- RESERVA TU CANCHA YA -->
     <section class="bg-gray-50 py-16">
         <div class="max-w-6xl mx-auto px-6">
             <div
